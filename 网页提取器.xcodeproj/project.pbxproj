@@ -14,6 +14,7 @@
 		825E432C1EB9BF3A00BC8194 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 825E432A1EB9BF3A00BC8194 /* Main.storyboard */; };
 		825E43371EB9BF3B00BC8194 /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 825E43361EB9BF3B00BC8194 /* _____Tests.m */; };
 		825E43421EB9BF3B00BC8194 /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 825E43411EB9BF3B00BC8194 /* _____UITests.m */; };
+		825E43501EC2AC6300BC8194 /* 界面.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 825E434F1EC2AC6300BC8194 /* 界面.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		825E433D1EB9BF3B00BC8194 /* 网页提取器UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "网页提取器UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		825E43411EB9BF3B00BC8194 /* _____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_____UITests.m"; sourceTree = "<group>"; };
 		825E43431EB9BF3B00BC8194 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		825E434F1EC2AC6300BC8194 /* 界面.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "界面.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				825E43281EB9BF3A00BC8194 /* Assets.xcassets */,
 				825E432A1EB9BF3A00BC8194 /* Main.storyboard */,
 				825E432D1EB9BF3A00BC8194 /* Info.plist */,
+				825E434F1EC2AC6300BC8194 /* 界面.jpg */,
 				825E43221EB9BF3A00BC8194 /* Supporting Files */,
 			);
 			path = "网页提取器";
@@ -248,6 +251,7 @@
 			files = (
 				825E43291EB9BF3A00BC8194 /* Assets.xcassets in Resources */,
 				825E432C1EB9BF3A00BC8194 /* Main.storyboard in Resources */,
+				825E43501EC2AC6300BC8194 /* 界面.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
